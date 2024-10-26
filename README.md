@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NanaGio
 - 👀 I’m interested in front-end ; design
-- 🌱 I’m currently learning UX/UL
+- 🌱 I’m currently learning UX/UI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
