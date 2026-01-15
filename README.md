@@ -6,6 +6,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="90" />
   <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="90" />
   <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="90" />
+  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="90" />
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="90" />
 </p>
 
