@@ -2,11 +2,11 @@
 
 ## Linguagens, frameworks, bancos e etc:
 <p align="center">
-  <img src="https://nodejs.org/static/logos/nodejsDark.svg" width="400" />
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="200" />
-  <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="200" />
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="200" />
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="200" />
+  <img src="https://nodejs.org/static/logos/nodejsDark.svg" width="200" />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="90" />
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="90" />
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="90" />
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="90" />
 </p>
 
 ## Projetos
