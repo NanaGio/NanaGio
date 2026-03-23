@@ -17,10 +17,10 @@
 
 ## Projetos
 - [Controller](https://github.com/NanaGio/Controller) Node.js + React
-- [Utilizando API's externas](https://github.com/NanaGio/APIOAT2) Node.js + React
-- [Contrata-Si](https://github.com/NanaGio/Contrata-SI2.2) React.js
-- [Cultura+](https://github.com/NanaGio/Cultura-II) React.js
-- [Planner](https://github.com/NanaGio/Planner) Java
+- [ECO Tech](https://github.com/NanaGio/ECO) Python Fast API
+- [Dendê-Eventos](https://github.com/NanaGio/dende-eventos-ulm) Kotlin
+- [Dendê-Statistics](https://github.com/NanaGio/dende-softhouse-SALVADOR) Python
+- [Planner](-) Java + Spring - Boot
   
 ## Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/giovanna-oliveira-araujo-9b0bb7323/)
