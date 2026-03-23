@@ -17,10 +17,10 @@
 
 ## Projetos
 - [Controller](https://github.com/NanaGio/Controller) Node.js + React
-- [ECO Tech](https://github.com/NanaGio/ECO) Python Fast API (Em processo)
+- [ECO Tech](https://github.com/NanaGio/ECO) Python Fast API 
 - [Dendê-Eventos](https://github.com/NanaGio/dende-eventos-ulm) Kotlin 
 - [Dendê-Statistics](https://github.com/NanaGio/dende-softhouse-SALVADOR) Python
-- [Planner](https://github.com/NanaGio/meu-planner) Java + Spring - Boot (Em processo)
+- [Planner](https://github.com/NanaGio/meu-planner) Java + Spring - Boot 
   
 ## Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/giovanna-oliveira-araujo-9b0bb7323/)
