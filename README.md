@@ -4,7 +4,10 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png"  width="70" />
   <img src="https://img.icons8.com/?size=96&id=90519&format=png" width="70"/>
-  
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1280px-Kotlin_Icon.png?_=20210501145042" width="60">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png?_=20250701090410" width="70">
   <img src="https://nodejs.org/static/logos/nodejsDark.svg" width="200" />
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="70" />
   
