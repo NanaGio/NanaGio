@@ -15,7 +15,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="70" />
   
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="70" />
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="90" />
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="70" />
 </p>
 
 ## Projetos
