@@ -1,16 +1,17 @@
 # Giovanna, Dev Full-Stack, estudante de Sistemas de Informação
 ## Sobre mim
--> Full-Stack em formação. Meu nome é Giovanna, tenho 23 anos e atualmente curso o 5º semestre de Sistemas de Informação na UNEX/UNIFTC. Sou apaixonada por inovação e encontrei na tecnologia o caminho ideal para transformar autonomia e criatividade em soluções reais de ponta a ponta.
+-> Full-Stack em formação. Meu nome é Giovanna, tenho 23 anos e atualmente curso o 6º semestre de Sistemas de Informação na UNEX/UNIFTC. Sou apaixonada por inovação e encontrei na tecnologia o caminho ideal para transformar autonomia e criatividade em soluções reais de ponta a ponta.
 
 Tenho grande interesse e foco no ecossistema Python, explorando o desenvolvimento de Inteligência Artificial através da criação de agentes personalizados com LangChain (Experiência que já apliquei na prática no setor jurídico) e automações inteligentes com n8n. Ao mesmo tempo, domino a construção de aplicações Full-Stack combinando FastAPI, React e MongoDB, unindo robustez e inovação na arquitetura de sistemas funcionais.
 
 Com inglês avançado e facilidade para me conectar com o cenário global de tecnologia, sigo expandindo meus conhecimentos para gerar impacto positivo, buscando uma oportunidade no mercado onde eu possa somar com o time e acelerar meu aprendizado.
 
 ## Projetos
+- [MecaniQA] (https://github.com/NanaGio/mecaniQA-api-campo-grande) Java + SpringBoot
 - [Controller](https://github.com/NanaGio/Controller) Node.js + React
 - [ECO Tech](https://github.com/NanaGio/ECO) Python Fast API 
 - [Dendê-Eventos](https://github.com/NanaGio/dende-eventos-ulm) Kotlin 
-- [Dendê-Statistics](https://github.com/NanaGio/dende-softhouse-SALVADOR) Python
+- [Dendê-Statistics](https://github.com/NanaGio/dende-softhouse-SALVADOR) | (https://github.com/NanaGio/dende-softhouse-association-rule-salvador) | (https://github.com/NanaGio/dende-softhouse-worldcup2026predictions-salvador) Python
 - [Planner](https://github.com/NanaGio/meu-planner) Java + Spring - Boot 
 
 ## Linguagens, frameworks, bancos e etc:
